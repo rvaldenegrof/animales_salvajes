@@ -33,3 +33,55 @@ export class Animal {
     }
 }
 
+
+/* export class Leon extends Animal {
+    constructor(nombre, edad, img, comentarios, sonido){
+        super(nombre, edad, img, comentarios, sonido);
+    }
+
+    Rugir(){
+        return `RUGEEEEEE`;
+    }
+}
+
+export class Lobo extends Animal {
+    constructor(nombre, edad, img, comentarios, sonido){
+        super(nombre, edad, img, comentarios, sonido);
+    }
+
+    Aullar(){
+        return `Auuuuuuuu au au au`;
+    }
+}
+
+export class Oso extends Animal {
+    constructor(nombre, edad, img, comentarios, sonido){
+        super(nombre, edad, img, comentarios, sonido);
+    }
+
+    Grunir(){
+        return `RAWWWWW`;
+    }
+}
+
+export class Serpiente extends Animal {
+    constructor(nombre, edad, img, comentarios, sonido){
+        super(nombre, edad, img, comentarios, sonido);
+    }
+
+    Sisear(){
+        return `PSSSSSSPSSSS`;
+    }
+}
+
+export class Aguila extends Animal {
+    constructor(nombre, edad, img, comentarios, sonido){
+        super(nombre, edad, img, comentarios, sonido);
+    }
+
+    Chillar(){
+        return `IG IG`;
+    }
+}
+
+ */
